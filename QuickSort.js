@@ -63,4 +63,4 @@ function quickSort(arr, left = 0, right = arr.length - 1) {
   return arr;
 }
 
-console.log(quickSort([5, 6, 1, 2, 44, 67, 4]));
+console.log(quickSort([5, 6, 1, 2, 35, 44, 67, 4]));
